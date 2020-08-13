@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HelloWorld"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt.tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt.tools.base"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt.tools.spies"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt.win32.win32.x86_64"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PozdravljenSwt"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/tableModelGui"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
